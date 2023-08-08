@@ -1,5 +1,5 @@
 <h1 align="center">
-Shape Up App
+FitnessQuest
 </h1>
 <p align="center">
 MongoDB, Expressjs, React/Redux, Nodejs
